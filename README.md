@@ -1,7 +1,7 @@
 # Supermarket Sales - Data Science Project
 
 ## Dataset
-[Supermarket Sales - Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+[Supermarket Sales - Kaggle](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales/data)
 
 ## Objective
 Segmentasi pelanggan dan analisis penjualan untuk mendukung keputusan pemasaran.
